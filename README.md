@@ -1,14 +1,14 @@
 # Michelle — Your All-in-One Discord Companion
 
 ## ⚠ Note
-- This application has been discontinued since 2023 and is no longer active.
-- Thank you to everyone for using this pet project!
+- This application has been discontinued and is no longer active.
+- Thanks to the 1000 discord servers that used my pet project!
 - Cheers 🥂
 
 ## Info
 - **Status**: `Archived`
-- **Michelle is now a Verified Discord Application**  
-- [Website (Archived)](https://www.michelle-bot.co.in) • 🔗 [Invite Link](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
+- **Michelle was a Verified Discord Application**  
+- [Website (Archived)](https://www.michelle-bot.co.in) • 🔗 [Invite Link](#)
 
 
 ## Table of Contents
